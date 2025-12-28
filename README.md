@@ -15,7 +15,7 @@ FinanSee é o seu parceiro financeiro inteligente. Aperfeiçoe a organização d
 - **Personalização de Categorias**: conforme as necessidades do usuário.  
 - **Controle de Assinaturas e Limite de Orçamento**: com alertas para te manter no controle.  
 - **Geração de Relatórios Detalhados**: por período.  
-- **Exportação de Dados**: em **.csv**, **.xlsx** e **.pdf**.  
+- **Exportação de Dados**: em **.pdf**.  
 
 ---
 
@@ -42,6 +42,7 @@ Instruções para rodar o projeto localmente:
 | **3.** | **Configurar variáveis de ambiente** | **Definir** as credenciais do banco de dados (usuário, senha, URL etc.) nas variáveis globais do IntelliJ. |
 | **4.** | **Executar `FinanseeApplication`** | **Rodar** o projeto diretamente pelo IntelliJ, iniciando o servidor da aplicação. |
 | **5.** | **Acesso** | O back-end estará disponível em: **`http://localhost:8080/`** |
+
 
 
 
